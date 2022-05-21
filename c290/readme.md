@@ -1,1 +1,1 @@
-# This repo contains files for anssignments.
+# This repo contains files for assignments.
