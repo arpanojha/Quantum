@@ -6,8 +6,8 @@ All things quantum
 See how you can simulate circuits in java [here](https://github.com/arpanojha/Quantum/tree/main/c290/java_sim) or follow the steps below:
   
 # Henceforth holds the automatic code to download,set environment variables and test stange and strange fx.     
-The libraries are provided by Johan Vos and are available at https://github.com/redfx-quantum/strange  and https://github.com/redfx-quantum/strangefx  
-Their uses are detailed in the code provided at https://github.com/johanvos/quantumjava      
+The libraries are provided by Johan Vos and are available at [strange](https://github.com/redfx-quantum/strange)  and [strangefx](https://github.com/redfx-quantum/strangefx)  
+Their uses are detailed in the code provided at [quantum java](https://github.com/johanvos/quantumjava)      
   
    
 ### Follow the steps below to enjoy quantum simulation with Java:     
@@ -21,5 +21,5 @@ Their uses are detailed in the code provided at https://github.com/johanvos/quan
      
 You are now all set to enjoy simulating quantum circuits in Java   
    
-Additional installation methods are available at https://livebook.manning.com/book/quantum-computing-for-java-developers/a-installing-strange/v-5/1     
+Additional installation methods are available at [quantum computing for java developers](https://livebook.manning.com/book/quantum-computing-for-java-developers/a-installing-strange/v-5/1)     
 
