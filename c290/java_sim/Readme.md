@@ -5,7 +5,7 @@ Their uses are detailed in the code provided at https://github.com/johanvos/quan
 
 ### Follow the steps below to enjoy quantum simulation with Java:  
 1) Choose your favourite spot in commandline 
-2) git clone 
+2) git clone https://github.com/arpanojha/Quantum/tree/main/c290/java_sim
 3) source .quantum_set
 4) chmod 755 c290.sh
 5) ./c290.sh
