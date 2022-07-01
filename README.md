@@ -3,8 +3,7 @@
 All things quantum  
 
 
-See how you can simulate circuits in java [here](https://github.com/arpanojha/Quantum/tree/main/c290/java_sim)
-
+See how you can simulate circuits in java [here](https://github.com/arpanojha/Quantum/tree/main/c290/java_sim) or follow the steps below:
 
 # Henceforth holds the automatic code to download,set environment variables and test stange and strange fx.   
 The libraries are provided by Johan Vos and are available at https://github.com/redfx-quantum/strange  and https://github.com/redfx-quantum/strangefx  
